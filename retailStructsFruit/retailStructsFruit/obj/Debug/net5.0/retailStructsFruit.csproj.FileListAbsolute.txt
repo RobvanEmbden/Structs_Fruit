@@ -1,0 +1,15 @@
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/bin/Debug/net5.0/retailStructsFruit.deps.json
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/bin/Debug/net5.0/retailStructsFruit.runtimeconfig.json
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/bin/Debug/net5.0/retailStructsFruit.runtimeconfig.dev.json
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/bin/Debug/net5.0/retailStructsFruit.dll
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/bin/Debug/net5.0/ref/retailStructsFruit.dll
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/bin/Debug/net5.0/retailStructsFruit.pdb
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/obj/Debug/net5.0/retailStructsFruit.csprojAssemblyReference.cache
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/obj/Debug/net5.0/retailStructsFruit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/obj/Debug/net5.0/retailStructsFruit.AssemblyInfoInputs.cache
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/obj/Debug/net5.0/retailStructsFruit.AssemblyInfo.cs
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/obj/Debug/net5.0/retailStructsFruit.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/obj/Debug/net5.0/retailStructsFruit.dll
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/obj/Debug/net5.0/ref/retailStructsFruit.dll
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/obj/Debug/net5.0/retailStructsFruit.pdb
+/Users/rob/Projects/retailStructsFruit/retailStructsFruit/obj/Debug/net5.0/retailStructsFruit.genruntimeconfig.cache
